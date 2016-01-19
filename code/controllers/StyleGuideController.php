@@ -52,6 +52,10 @@ class StyleGuideController extends ContentController {
 		$this->loadFixture();
 	}
 
+	public function index () {
+		return $this->renderWith('StyleGuideController');
+	}
+
 	/**
 	 * Set the styleguide service on init.
 	 * @param String $name The name of the styleguide service.
