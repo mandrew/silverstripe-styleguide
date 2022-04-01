@@ -1,5 +1,5 @@
 {
-    "name": "benmanu/silverstripe-styleguide",
+    "name": "mandrew/silverstripe-styleguide",
     "description": "Generates a styleguide for a SilverStripe theme",
     "type": "silverstripe-vendormodule",
     "homepage": "https://github.com/benmanu/silverstripe-styleguide",
